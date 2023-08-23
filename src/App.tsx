@@ -12,10 +12,11 @@ import Snackbar from 'react-native-snackbar';
 
 // Constants
 import {currencyByRupee} from './constants';
-import CurrencyButton from './components/CurrencyButton';
-// Component
 
-function App(): JSX.Element {
+// Component
+import CurrencyButton from './components/CurrencyButton';
+
+const App = (): JSX.Element => {
   const [inputValue, setInputValue] = React.useState('');
   const [resultValue, setResultValue] = React.useState('');
   const [targetCurrency, setTargetCurrency] = React.useState('');
@@ -82,7 +83,7 @@ function App(): JSX.Element {
       </View>
     </>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
