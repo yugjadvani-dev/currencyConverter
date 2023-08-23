@@ -1,3 +1,8 @@
+![Screenshot 2023-08-23 143946](https://github.com/yug20/currencyConverter/assets/110123287/1a5f3fbc-194a-4dc4-b6d3-bbcd4aa61f82)
+![Screenshot 2023-08-23 143923](https://github.com/yug20/currencyConverter/assets/110123287/3fbfafaa-b803-48fc-b342-8b574baefea0)
+![Screenshot 2023-08-23 143915](https://github.com/yug20/currencyConverter/assets/110123287/77a4cba4-0292-4364-b4ce-0729158b46e2)
+![Screenshot 2023-08-23 143602](https://github.com/yug20/currencyConverter/assets/110123287/46f3c390-e329-4179-9617-f3c7da3e4710)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
