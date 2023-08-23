@@ -24,7 +24,7 @@ const App = (): JSX.Element => {
   const buttonPressed = (targetValue: Currency) => {
     if (!inputValue) {
       return Snackbar.show({
-        text: 'Enter a value to convert',
+        text: 'Enter a value to convert!',
         backgroundColor: '#EA7773',
         textColor: '#000000',
       });
@@ -38,7 +38,7 @@ const App = (): JSX.Element => {
       setTargetCurrency(targetValue.name);
     } else {
       return Snackbar.show({
-        text: 'Not a Valid number to convert',
+        text: 'Not a Valid number to convert!',
         backgroundColor: '#F4BE2C',
         textColor: '#000000',
       });
